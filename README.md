@@ -1,6 +1,5 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
-### DATE: 
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
@@ -87,8 +86,6 @@ FILAMENT :
 
 material that is used to create the printed object.
 
-### Name:T.Ajay
-### Register Number:23007325
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
